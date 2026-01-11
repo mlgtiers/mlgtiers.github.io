@@ -46,5 +46,11 @@
     "region": "SA",
     "tier": "LT5",
     "skin": "skins/magic_kk-skin.png"
+  },
+  {
+    "nick": "ODEKAZAO",
+    "region": "SA",
+    "tier": "HT4",
+    "skin": "skins/odekazao-skin.png"
   }
 ]
